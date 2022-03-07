@@ -13,6 +13,7 @@
   "dependencies": {
     "body-parser": "^1.19.2",
     "cors": "^2.8.5",
+    "create-readme": "^2.1.3",
     "express": "^4.17.3",
     "git": "^0.1.5",
     "mysql": "^2.18.1",
